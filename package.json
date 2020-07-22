@@ -19,6 +19,7 @@
         "sass-loader": "^8.0.0"
     },
     "dependencies": {
+        "aos": "^2.3.4",
         "typed.js": "^2.0.11"
     }
 }
